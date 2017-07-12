@@ -1,0 +1,14 @@
+{
+    "name": "endrsmar/enum",
+    "description": "PHP Enum implementation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Endršt",
+            "email": "endrst.martin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
